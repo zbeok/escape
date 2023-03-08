@@ -1,2 +1,3 @@
-# mpls
-field
+# escape
+
+imagine a vast and endless sea. the water is so clear but the floor is so deep you can't see it. and you can see gargantuan monsters thousands of feet below almost as clearly as the surface feeding little schools of tiny silver fish. the sky is so blue it melts into the surface of the sea at the horizons, broken by the occasional cumulus cloud. the air is clean. the ocean is calm-- not a single wavem still as a solid surface, or it would be if occasional fish didn't break through and cause a perfect circular ripple. seagulls silently pass through the scene, never alighting on the water. ok, now imagine you as you are now, walking lightly on the surface of the sea. the water is lukewarm. every step you take creates that perfect ripple. and now you lower yourself to lie down in it. the sky is so blue in your eyes; the water seeps into your hair. the fish swim near you playfully. thereare monsters below you, but they are so far away-- they don't see you. are you happy?
